@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngget.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngrio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\png.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngrtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngwtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngpread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngrutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngwutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\pngwio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\png\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{220AB4B2-8DDD-3CD5-811E-0213518474E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

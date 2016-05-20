@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\test\tile.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{220AB4B2-8DDD-3CD5-811E-0213518474E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

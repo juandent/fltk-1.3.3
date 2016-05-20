@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jmemnobs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jaricom.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcomapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jmemmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jctrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcparam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdatadst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcinit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcprepct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jccoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jccolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jchuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jcdctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jfdctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jfdctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jfdctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdatasrc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdinput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdhuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdcoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdpostct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jddctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jidctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jidctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jidctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdcolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jquant1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jquant2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\jdmerge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\juan_\Documents\C++ Courses\C++\fltk-1.3.3\jpeg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{220AB4B2-8DDD-3CD5-811E-0213518474E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
